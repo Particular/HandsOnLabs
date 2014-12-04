@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastCars.Events", "FastCars.Events\FastCars.Events.csproj", "{F9BEB06A-9614-496C-B280-B66A7768084A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastCars.CustomerRelations", "FastCars.CustomerRelations\FastCars.CustomerRelations.csproj", "{CD4A46BE-4E8F-481D-B266-0DD1ACC39384}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastCars.Promotions", "FastCars.Promotions\FastCars.Promotions.csproj", "{A8350C89-E52F-4363-A549-43A1F737AF19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastCars.SharedConventions", "FastCars.SharedConventions\FastCars.SharedConventions.csproj", "{FF4D4380-3B20-4C5B-95AF-E455F1F12526}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9BEB06A-9614-496C-B280-B66A7768084A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9BEB06A-9614-496C-B280-B66A7768084A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9BEB06A-9614-496C-B280-B66A7768084A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9BEB06A-9614-496C-B280-B66A7768084A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD4A46BE-4E8F-481D-B266-0DD1ACC39384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD4A46BE-4E8F-481D-B266-0DD1ACC39384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD4A46BE-4E8F-481D-B266-0DD1ACC39384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD4A46BE-4E8F-481D-B266-0DD1ACC39384}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8350C89-E52F-4363-A549-43A1F737AF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8350C89-E52F-4363-A549-43A1F737AF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8350C89-E52F-4363-A549-43A1F737AF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8350C89-E52F-4363-A549-43A1F737AF19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF4D4380-3B20-4C5B-95AF-E455F1F12526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF4D4380-3B20-4C5B-95AF-E455F1F12526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF4D4380-3B20-4C5B-95AF-E455F1F12526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF4D4380-3B20-4C5B-95AF-E455F1F12526}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
